@@ -8,7 +8,7 @@ url:                "https://ChoiJiWoo-ps.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/liverpool_premier20-21.jpg"
 disqus:
-  shortname: choijiwoo-ps
+  shortname:        https-choijiwoo-ps-github-io
 
 # Social Profiles
 twitter_username:   twitter_username

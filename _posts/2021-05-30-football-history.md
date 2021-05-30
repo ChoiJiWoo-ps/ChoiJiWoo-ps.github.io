@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /kop-intro/
+permalink: /football-history/
 title: '리버풀 팬 최지우입니다.'
 date: 2021-05-30 18:00:00 +09:00
 feature: '/img/posts/02/mob-football.jpg'

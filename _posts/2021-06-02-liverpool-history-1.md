@@ -2,7 +2,7 @@
 layout: post
 permalink: /liverpool-history-1/
 title: '리버풀 역사(상편)-구단의 탄생과 위대한 감독'
-date: 2021-05-30 18:00:00 +09:00
+date: 2021-06-02 18:00:00 +09:00
 feature: '/img/posts/03/bill-shankly.jpg'
 categories:
   - Soccer

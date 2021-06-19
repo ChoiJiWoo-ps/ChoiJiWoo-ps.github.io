@@ -7,8 +7,6 @@ baseurl:            "/"
 url:                "https://ChoiJiWoo-ps.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/liverpool_premier20-21.jpg"
-disqus:
-shortname:        https-choijiwoo-ps-github-io
 
 # Social Profiles
 twitter_username:   twitter_username
@@ -22,4 +20,4 @@ permalink:          /:title
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
-  - jekyll-sitemap
+  - jekyll-paginate

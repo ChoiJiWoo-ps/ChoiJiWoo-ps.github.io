@@ -4,7 +4,7 @@ email:              "choijioo@naver.com"
 description:        "프리미어리그 리버풀 풋볼클럽의 소식과 축구 얘기들 (경기 소개, 리뷰, 축구 전술 및 역사, 해외언론칼럼)을 소개 해주는 블로그"
 author:             "최지우"
 baseurl:            "/"
-url:                https://ChoiJiWoo-ps.github.io
+url:                "https://ChoiJiWoo-ps.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/liverpool_premier20-21.jpg"
 disqus:
